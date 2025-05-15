@@ -19,9 +19,9 @@ This is a **Fake News Detection** application that classifies news articles as *
 | Metric    | Score  |
 | --------- | ------ |
 | Accuracy  | 88%    |
-| Precision | 0 - 0.89|1 - 0.88|
-| Recall    | 0 - 0.58|1 - 0.98|
-| F1-score  |0 - 0.70|1 - 0.92|
+| Precision | 0 - 0.89 , 1 - 0.88|
+| Recall    | 0 - 0.58 , 1 - 0.98|
+| F1-score  |0 - 0.70 , 1 - 0.92|
 
 ## How to Use
 
